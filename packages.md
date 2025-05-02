@@ -15,7 +15,7 @@ List of all software packages for distribution by product line.
 
 ## Prod_B
 
-| Product | Release |
+| Date | Release |
 | ------- | ------- |
 | 2025/02/01 | [1.2.3](https://github.com/goldzwjl/skills-github-pages/releases/tag/Test_Release) |
 | 2025/03/02  | [2.0.0](https://github.com/goldzwjl/skills-github-pages/releases/tag/Test_Release) |
@@ -23,7 +23,7 @@ List of all software packages for distribution by product line.
 
 ## Prod_C
 
-| Product | Release |
+| Date | Release |
 | ------- | ------- |
 | 2025/09/01 | [1.2.3](https://github.com/goldzwjl/skills-github-pages/releases/tag/Test_Release) |
 | 2025/10/02  | [2.0.0](https://github.com/goldzwjl/skills-github-pages/releases/tag/Test_Release) |

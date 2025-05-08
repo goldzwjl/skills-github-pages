@@ -43,7 +43,3 @@ jobs:
         - name: Deploy to GitHub Pages
           id: deployment
           uses: actions/deploy-pages@v2
-          with:
-            publish_dir: Release
-            publish_branch: my-pages
-            publish_token: ${{ secrets.GITHUB_TOKEN }}

@@ -25,12 +25,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Build package
-        run: gmake
-
       - name: Upload all artifacts
         uses: actions/upload-pages-artifact@v3
         with:
